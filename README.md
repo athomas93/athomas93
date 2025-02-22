@@ -1,4 +1,4 @@
-# Hello, I'm Allen
+# Allen's ePortfolio
 <a href="https://www.linkedin.com/in/allen-thomas-02077b180/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 I am an IT professional with a profound interest in technology and a dedication to solving complex problems.
