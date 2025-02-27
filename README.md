@@ -17,8 +17,10 @@ My journey in IT has led me to develop a passion for cybersecurity, and I am now
 
 ## Projects
 - <a href="https://github.com/athomas93/EDR-Home-Lab-Attack-and-Defense/tree/main">EDR Home Lab using LimaCharlie and Sliver</a>
-- 
-  
+
+## Skills and Badges
+- <a href="">TryHackMe Profile </a>
+
 ## Tools
 
 ### Network
@@ -41,7 +43,3 @@ My journey in IT has led me to develop a passion for cybersecurity, and I am now
     <img src="https://img.shields.io/badge/-Elastic-005571?&style=for-the-badge&logo=Elastic&logoColor=white" />
 </div>
 
-##Skills and Badges
-<div>
-- <a href="">TryHackMe Profile </a>
-</div>
