@@ -31,6 +31,8 @@ My journey in IT has led me to develop a passion for cybersecurity, and I am now
 <div>
     <img src="https://img.shields.io/badge/-Microsoft_Defender_for_Endpoint-00A4EF?&style=for-the-badge&logo=Microsoft&logoColor=white" />
     <img src="https://img.shields.io/badge/-Velociraptor-4B275F?&style=for-the-badge&logo=Velociraptor&logoColor=white" />
+    <img src="https://img.shields.io/badge/-LimaCharlie-008080?&style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAABHklEQVR42u2XQU7DMBCFP4RRhWRREH0FGWVmLkJDfgKo9hXyCS6SwKgyEEABIRpFsH0qHDVzaJh17+93O8bEynIoybnAUK1TqAGq2IXG+FvSDE/xzglNwZ4l/4zTtCbHcGP4hAVsA7MZ1QU7EGUZZb4xDLJ4rPRrh37QxxPbAF3waK94HfnqCAcObrMx7gN5BBFtaZouMJikNG2/A6xaNx0P+Y/3mOF22KnUdXZpe+GHbO5i5x75uHjjIV69yKYHIdC3rzCf1rGZVP9QxnnB6sb+fLypmZYUCMa3Ajl1nDP+R7Dlw9D5XaEcvEbbM7jaU6zM0XLpDDyNia6LDN6eMdcxBbwzDaeF57+XC/GmnZf07x4naPbNsTVbcBe8GG2MoquuPfr0Xn/Icd3dKw69sDcPz+bjTLzqAItSzQQAAAABJRU5ErkJggg==&logoColor=white" />
+
 </div>
 
 ### SIEM
