@@ -43,4 +43,4 @@ My journey in IT has led me to develop a passion for cybersecurity, and I am now
 </div>
 
 ## Skills and Badges
-##- <a href="https://tryhackme.com/p/ath0m93">TryHackMe Profile </a>
+## - <a href="https://tryhackme.com/p/ath0m93">TryHackMe Profile </a>
