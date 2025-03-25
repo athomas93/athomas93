@@ -8,7 +8,8 @@ I am an IT professional with a profound interest in technology and a dedication 
 My journey in IT has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
 
 ## Projects
-- <a href="https://github.com/athomas93/EDR-Home-Lab-Attack-and-Defense/tree/main">EDR Attack and Defense</a>
+- <a href="https://github.com/athomas93/EDR-Home-Lab-Attack-and-Defense/tree/main">EDR Attack and Defense with LimaCharlie</a>
+- <a href="https://github.com/athomas93/Active-Directory-Lab-with-Splunk-and-Atomic-Red-Team/tree/main">Active Directory Lab with Splunk and Atomic Red Team</a>
 
 ## Certifications
 <div>
