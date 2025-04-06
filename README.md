@@ -10,6 +10,7 @@ My journey in IT has led me to develop a passion for cybersecurity, and I am now
 ## Projects
 - <a href="https://github.com/athomas93/EDR-Home-Lab-Attack-and-Defense/tree/main">EDR Attack and Defense with LimaCharlie</a>
 - <a href="https://github.com/athomas93/Active-Directory-Lab-with-Splunk-and-Atomic-Red-Team/tree/main">Active Directory Lab with Splunk and Atomic Red Team</a>
+- <a href="https://github.com/athomas93/SOC-Honeynet-Implementation-in-Azure/blob/6216dd3a1927ceb85659a4a677ed0b11e3f9b2a9/README.md">SOC & Honeynet Implementation in Azure (Live Traffic)</a>
 
 ## Certifications
 <div>
